@@ -1,6 +1,6 @@
 # smpl_IGES
 
-- Minimal C++ header library to write geometry to IGES
+- Minimal C++ header-only library to write some types of geometry to IGES
 
 ## Dependancies
 
@@ -8,7 +8,7 @@
 
 ## Usage
 
-The entire library is contained in `src/smpl_IGES.hpp`, so one only needs to `#include` the header.
+The entire library is contained in `src/smpl_IGES.hpp`, so one only needs to `#include` this header.
 
 ## Current Features
 
